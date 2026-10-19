@@ -1,5 +1,14 @@
 # PHISHING RESENTATION
 
+# INTRODUCTION
+
+Imagine opening your email and seeing an urgent warning from your bank saying your account is blocked. Panicked, you click the link provided, log in, and fix the issue. Only later do you realize the email was fake, the website was a copy, and you just handed your password directly to a thief.
+This is phishing. It is a trick where scammers send fake emails, texts, or messages that look exactly like they are from trusted companies, banks, or friends. Instead of hacking into computers using complicated codes, phishing scammers simply hack our emotions—like fear or curiosity—to trick us into clicking bad links, downloading viruses, or giving away our passwords and money. It is the most common cyber threat today because it relies on a simple truth: it is much easier to trick a person than it is to break a computer.
+
+In the course of this presentation, we will look at what phishing is, its types, how to recognize phishing emails and others.
+
+# WHAT IS PHISHING?
+
 Phishing is a type of cyberattack where scammers use deceptive messages to trick you into revealing sensitive information, sending money, or downloading malware. Instead of targeting technical bugs in software, phishing exploits human psychology (social engineering), often using a false sense of urgency or fear to make you act before you think.
 
 # How Phishing Works: The 4-Step Cycle
@@ -27,11 +36,17 @@ Smishing & Vishing	Phishing via SMS text messages (Smishing) or fraudulent phone
 # How to recognise phishing emails and fake websites
 
 1 Extreme Urgency
+
 2  Suspicious Sender Addresses
+
 3 Generic Greetings
+
 4 Unexpected Links or Attachments
+
 5 Lookalike and Misspelled Domains (Typosquatting)
+
 6 Broken Links and Layout Flaws
+
 7 Look for the Padlock
 
 # social Engineering tactics used by attackers
