@@ -1,4 +1,4 @@
-# PHISHING AWARENESS CAMPAIGN
+# PHISHING AWARENESS TRAINING
 
 # INTRODUCTION
 
@@ -192,6 +192,8 @@ RESOURCES
 Google.com
 
 ZoneAlarm Phishing Quizz
+
+Canva
 
 
 
