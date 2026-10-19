@@ -49,7 +49,7 @@ Smishing & Vishing	Phishing via SMS text messages (Smishing) or fraudulent phone
 
 7 Look for the Padlock
 
-# social Engineering tactics used by attackers
+# Social Engineering tactics used by attackers
 Social engineering is the psychological manipulation of people into performing actions or divulging confidential information. Rather than hacking into a system by exploiting technical software flaws, cybercriminals exploit human vulnerabilities—such as trust, fear, urgency, and greed.
 
 Because humans are often considered the weakest link in any security perimeter, social engineering is the primary root cause of most modern data breaches.
@@ -180,6 +180,7 @@ Answer: C (Social engineers use phone calls to create an atmosphere of helpful u
 9     OSINT: Open Source Intelligence (Information that anyone can legally and publicly find on the internet, like on social media or LinkedIn).
 
 # CONCLUSION
+
 The bottom line: Cybercriminals don’t just hack systems, they hack people. Technology can block thousands of threats every day, but your vigilance remains our strongest line of defense.
 Thank you for taking the time to complete this quiz and for doing your part to keep our data, our clients, and our team safe. 
 
